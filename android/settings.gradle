@@ -1,0 +1,3 @@
+rootProject.name = 'LoginToList'
+
+include ':app'
